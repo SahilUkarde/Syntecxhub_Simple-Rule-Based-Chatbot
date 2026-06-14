@@ -5,6 +5,11 @@ It supports common intents like greetings, help, small talk, and answers
 domain-specific questions using a built-in knowledge base. All conversations
 are logged to a text file with timestamps.
 
+
+#Live Demo:- https://simple-rule-based-chatbot.streamlit.app/
+
+
+
 ## Features
 
 - **Intent recognition** via regex pattern matching
